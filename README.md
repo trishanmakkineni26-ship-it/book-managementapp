@@ -22,4 +22,4 @@ CREATE TABLE Book (
 
 1. `npm install`
 2. `npm start`
-3. Open http://localhost:3000
+3. Open http:file:///C:/Users/Trishan%20Makkineni/Downloads/book-management-app%20(1)/book-management-app/public/index.html
